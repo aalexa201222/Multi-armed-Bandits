@@ -18,9 +18,8 @@ pip install -r requirements.txt
 
 ## Installation
 Clone the repository to your local machine:
-git clone https://github.com/aalexa201222/Sequence-Processing-with-Recurrent-Neural-Networks.git
+git clone https://github.com/aalexa201222/Multi-armed-Bandits.git
 
 ## Contributors
-https://github.com/aalexa201222/Sequence-Processing-with-Recurrent-Neural-Networks
 [Andreas Alexandrou](https://www.linkedin.com/in/andreas-alexandrou-056528242) <br />
 Sotiris Zenios
